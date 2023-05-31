@@ -1,0 +1,6 @@
+hacerlo dinamico
+3 numeros
+ 
+ preguntar si va insertar, intercambiar, extraer
+
+ encontrar el numero mayor y en que posición esta 
